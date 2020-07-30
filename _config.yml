@@ -1,26 +1,15 @@
-# Dependencies
 markdown:         kramdown
 highlighter:      rouge
-
-# Setup
 title:            Open Web Store
 tagline:          Web apps are the future.
 description:      "Web Store by Ubuntu Web"
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:          /
-
 paginate:         5
-# paginate_path:    '/page:num'
-                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
-
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-
-# Custom vars
-version:            2.0.1
-main:               https://ubuntu-web.github.io
-
+main:             https://ubuntu-web.github.io
 github:
-  repo:             https://github.com/Ubuntu-Web/ubuntu-web.github.io
+  repo:           https://github.com/Ubuntu-Web/ubuntu-web.github.io
