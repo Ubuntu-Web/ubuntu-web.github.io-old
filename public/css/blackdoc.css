@@ -60,6 +60,10 @@ h6 a {
   font-synthesis: weight style;
 } */
 
+.card-container h4 {
+  color: #caad00;
+}
+
 a {
   color: #ffeb99;
   transition: color ease 0.3s;
