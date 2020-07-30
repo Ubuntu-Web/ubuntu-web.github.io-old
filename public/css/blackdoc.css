@@ -1,13 +1,13 @@
 /*
 ______ _            _   ______
-| ___ \ |          | |  |  _  \
+| ___ \ |  Edited  | |  |  _  \
 | |_/ / | __ _  ___| | _| | | |___   ___
 | ___ \ |/ _` |/ __| |/ / | | / _ \ / __|
 | |_/ / | (_| | (__|   <| |/ / (_) | (__
 \____/|_|\__,_|\___|_|\_\___/ \___/ \___|
 
  *
- * Designed, built, and released under MIT license by @karloespiritu.
+ * Designed, built, and released under MIT license by @karloespiritu, and customized by @RudraSwat and Ubuntu Web.
  */
 
 /*
@@ -16,9 +16,10 @@ ______ _            _   ______
  * Global resets
  * Sidebar
  * Container
- * Reverse layout
+ * Reverse layout\
  * Themes
  * Scrollbar
+ * Custom CSS
  */
 
 /*
@@ -413,4 +414,25 @@ a.sidebar-nav-item:focus {
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #7d7d7d;
+}
+
+/*
+ * Custom CSS
+ * 
+ * Open Web Store custom CSS
+ */
+
+/* Card */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-container {
+  padding: 2px 16px;
 }
