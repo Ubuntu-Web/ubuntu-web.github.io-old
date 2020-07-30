@@ -26,6 +26,7 @@ plugins:
 
 # Custom vars
 version:            2.0.1
+main: https://ubuntu-web.github.io/
 
 github:
   repo:             https://github.com/karloespiritu/blackdoc
