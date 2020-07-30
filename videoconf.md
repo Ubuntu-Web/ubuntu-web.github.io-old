@@ -6,7 +6,7 @@ title: IDEs
 
 {::options parse_block_html="true" /}
 <div class="card">
-  <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%">
+  <img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%">
   <div class="card-container" markdown="1">
 #### Jitsi Meet 
 
