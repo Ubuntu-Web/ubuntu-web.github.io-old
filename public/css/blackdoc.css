@@ -424,7 +424,8 @@ a.sidebar-nav-item:focus {
 
 /* Card */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background-color: rgba(4,4,4,1);;
+  box-shadow: 0 4px 8px 0 rgba(2,2,2,1);
   transition: 0.3s;
   width: 40%;
   border-radius: 15px;
@@ -435,7 +436,7 @@ a.sidebar-nav-item:focus {
 }
 
 .card:hover {
-  box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 16px 32px 0 rgba(2,2,2,1);
 }
 
 .card-container {
