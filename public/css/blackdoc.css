@@ -417,7 +417,7 @@ a.sidebar-nav-item:focus {
   background-color: rgba(20,20,20,1);;
   box-shadow: 0 8px 8px 0 rgba(25,25,25,1);
   transition: 0.3s;
-  width: 40%;
+  width: 100%;
   border-radius: 15px;
 }
 
