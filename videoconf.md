@@ -83,26 +83,64 @@ Secure, fully featured and completely free video conferencing (and it's open sou
 </div>
 </div>
   
-  <img src="https://www.w3schools.com/w3images/rocks.jpg" style="width:100%">
+<div class="card">
+<img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%">
+
+<div class="card-container">
+#### Jitsi Meet 
+
+Secure, fully featured and completely free video conferencing (and it's open source)
+
+<a href="https://meet.jit.si/">Go</a>
+</div>
+</div>
   
-  <img src="https://www.w3schools.com/w3images/falls2.jpg" style="width:100%">
-    
- </div>
- <div class="column">
-  <img src="https://www.w3schools.com/w3images/underwater.jpg" style="width:100%">
-  <img src="https://www.w3schools.com/w3images/ocean.jpg" style="width:100%">
-  <img src="https://www.w3schools.com/w3images/wedding.jpg" style="width:100%">
-  <img src="https://www.w3schools.com/w3images/mountainskies.jpg" style="width:100%">
+</div>
+<div class="column">
+ 
+<div class="card">
+<img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%">
+
+<div class="card-container">
+#### Jitsi Meet 
+
+Secure, fully featured and completely free video conferencing (and it's open source)
+
+<a href="https://meet.jit.si/">Go</a>
+</div>
+</div>
    
- </div>  
- <div class="column">
-  <img src="https://www.w3schools.com/w3images/wedding.jpg" style="width:100%">
-  <img src="https://www.w3schools.com/w3images/rocks.jpg" style="width:100%">
+</div>  
+ 
+<div class="column">
+
+<div class="card">
+  
+<img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%">
+
+<div class="card-container">
+#### Jitsi Meet 
+
+Secure, fully featured and completely free video conferencing (and it's open source)
+
+<a href="https://meet.jit.si/">Go</a>
+</div>
+</div>
   
  </div>
  <div class="column">
-  <img src="https://www.w3schools.com/w3images/underwater.jpg" style="width:100%">
-  <img src="https://www.w3schools.com/w3images/ocean.jpg" style="width:100%">
+ 
+<div class="card">
+<img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%">
+
+<div class="card-container">
+#### Jitsi Meet 
+
+Secure, fully featured and completely free video conferencing (and it's open source)
+
+<a href="https://meet.jit.si/">Go</a>
+</div>
+</div>
    
- </div>
+</div>
 </div>
