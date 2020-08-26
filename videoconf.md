@@ -61,12 +61,6 @@ body {
 
 {::options parse_block_html="true" /}
 
-<!-- Header -->
-<div class="header">
-  <h1>Responsive Image Grid</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
-</div>
-
 <!-- Photo Grid -->
 <div class="row"> 
  <div class="column">
