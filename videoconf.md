@@ -82,7 +82,7 @@ Secure, fully featured and completely free video conferencing (and it's open sou
  <div class="column">
  
   <div class="card">
-   <img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:50%">
+   <img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%">
    <div class="card-container">
    #### Jitsi Meet 
 
