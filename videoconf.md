@@ -80,18 +80,21 @@ Secure, fully featured and completely free video conferencing (and it's open sou
 <!-- Photo Grid -->
 <div class="row"> 
  <div class="column">
-    <div class="card">
-      <img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:50%">
-      <div class="card-container">
-        #### Jitsi Meet 
+ 
+  <div class="card">
+   <img class="card-img" src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:50%">
+   <div class="card-container">
+   #### Jitsi Meet 
 
-        Secure, fully featured and completely free video conferencing (and it's open source)
+   Secure, fully featured and completely free video conferencing (and it's open source)
 
-        <a href="https://meet.jit.si/">Go</a>
-        </div>
-    </div>
-    <img src="https://www.w3schools.com/w3images/rocks.jpg" style="width:100%">
-    <img src="https://www.w3schools.com/w3images/falls2.jpg" style="width:100%">
+   <a href="https://meet.jit.si/">Go</a>
+   </div>
+  </div>
+  
+  <img src="https://www.w3schools.com/w3images/rocks.jpg" style="width:100%">
+  
+  <img src="https://www.w3schools.com/w3images/falls2.jpg" style="width:100%">
     
  </div>
  <div class="column">
