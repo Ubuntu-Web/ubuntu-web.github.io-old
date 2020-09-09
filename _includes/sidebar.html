@@ -8,6 +8,13 @@
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
+
+    <br><div class="container">
+      <div id="searchbox">
+        <input id="search-field" placeholder="What do you want to search for?"/>
+        <ul id="results"></ul>
+      </div>
+    </div><br>
     
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.main }}">Home</a>
