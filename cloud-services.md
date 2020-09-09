@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Networking
+title: Cloud Services
 ---
 <br>
 <style>
@@ -68,16 +68,16 @@ body {
 <img class="card-img" src="https://gametradersusa.com/wp-content/uploads/2016/09/Twitter_Logo_Hd_Png_07.png" alt="Twitter" style="width:100%">
 
 <div class="card-container">
-#### Twitter 
+#### Opendesktop 
 
-A popular social networking app. Note: this is not the official Twitter web app.
+Opendesktop is a libre platform providing free cloud storage, online office editing, contacts & calender tools, personal chat and messaging, as well as project development and product publishing to anyone who values freedom and openness. Note: This is not the official Opendesktop web app.
 
 **Open Source**: Yes
 **Checked for security**: Yes
-**Security notes**: While this web app is open source, Twitter is not.
+**Security notes**: None.
 **Developer:** Rudra Saraswat
 
-<a style="margin-right: 6px;" href="https://github.com/Ubuntu-Web/twitter/releases/latest/download/install-twitter">Download</a><a href="https://github.com/Ubuntu-Web/twitter/">Information</a>
+<a style="margin-right: 6px;" href="https://github.com/Ubuntu-Web/opendesktop/releases/latest/download/install-opendesktop">Download</a><a href="https://github.com/Ubuntu-Web/opendesktop/">Information</a>
 </div>
 </div>
   
