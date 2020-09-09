@@ -10,6 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-algolia
 main:             https://ubuntu-web.github.io
 github:
   repo:           https://github.com/Ubuntu-Web/ubuntu-web.github.io
