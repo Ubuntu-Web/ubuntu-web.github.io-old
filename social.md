@@ -77,7 +77,7 @@ A popular social networking app. Note: this is not the official Twitter web app.
 <p>**Security notes**: While this web app is open source, Twitter is not.</p>
 <p>**Developer:** Rudra Saraswat</p>
 
-<a style="margin-right: 6px;" href="https://github.com/Ubuntu-Web/twitter/releases/latest/download/install-twitter">Download</a><a href="https://github.com/Ubuntu-Web/twitter/">More information</a>
+<a style="margin-right: 16px;" href="https://github.com/Ubuntu-Web/twitter/releases/latest/download/install-twitter">Download</a><a href="https://github.com/Ubuntu-Web/twitter/">More information</a>
 </div>
 </div>
   
