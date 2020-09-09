@@ -72,12 +72,12 @@ body {
 
 Opendesktop is a libre platform providing free cloud storage, online office editing, contacts & calender tools, personal chat and messaging, as well as project development and product publishing to anyone who values freedom and openness. Note: This is not the official Opendesktop web app.
 
-**Open Source**: Yes
-**Checked for security**: Yes
-**Security notes**: None.
-**Developer:** Rudra Saraswat
+<p>**Open Source**: Yes</p>
+<p>**Checked for security**: Yes</p>
+<p>**Security notes**: None.</p>
+<p>**Developer:** Rudra Saraswat</p>
 
-<a style="margin-right: 6px;" href="https://github.com/Ubuntu-Web/opendesktop/releases/latest/download/install-opendesktop">Download</a><a href="https://github.com/Ubuntu-Web/opendesktop/">Information</a>
+<a style="margin-right: 6px;" href="https://github.com/Ubuntu-Web/opendesktop/releases/latest/download/install-opendesktop">Download</a><a href="https://github.com/Ubuntu-Web/opendesktop/">More information</a>
 </div>
 </div>
   
