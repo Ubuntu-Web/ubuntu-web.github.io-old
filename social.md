@@ -66,7 +66,7 @@ body {
  <div class="column">
  
 <div class="card">
-<img class="card-img" src="https://ipsf.net/wp-content/uploads/2018/10/twitter-transparent-app-2.png" alt="Twitter" style="width:100%">
+<img class="card-img" src="https://gametradersusa.com/wp-content/uploads/2016/09/Twitter_Logo_Hd_Png_07.png" alt="Twitter" style="width:100%">
 
 <div class="card-container">
 #### Twitter 
