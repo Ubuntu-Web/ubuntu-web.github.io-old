@@ -65,7 +65,7 @@ body {
  <div class="column">
  
 <div class="card">
-<img class="card-img" src="https://gametradersusa.com/wp-content/uploads/2016/09/Twitter_Logo_Hd_Png_07.png" alt="Twitter" style="width:100%">
+<img class="card-img" src="https://www.opendesktop.org/media/logo.png" alt="Opendesktop" style="width:100%">
 
 <div class="card-container">
 #### Opendesktop 
