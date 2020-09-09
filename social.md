@@ -73,7 +73,7 @@ body {
 
 A popular social networking app.
 
-<a style="margin-right: 5px;" href="https://github.com/Ubuntu-Web/twitter/releases/latest/download/install-twitter">Download</a><a href="https://github.com/Ubuntu-Web/twitter/">Information</a>
+<a style="margin-right: 6px;" href="https://github.com/Ubuntu-Web/twitter/releases/latest/download/install-twitter">Download</a><a href="https://github.com/Ubuntu-Web/twitter/">Information</a>
 </div>
 </div>
   
