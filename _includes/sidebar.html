@@ -9,6 +9,12 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
+    <form action="{{ site.baseurl }}/search.html" method="get">
+      <label for="search-box">Search</label>
+      <input type="text" id="search-box" name="query">
+      <input type="submit" value="Search">
+    </form>
+
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.main }}">Home</a>
 
