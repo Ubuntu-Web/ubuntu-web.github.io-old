@@ -48,36 +48,36 @@ layout: null
   {%- endfor -%}
 {%- endif -%}
 {%- for collection in site.tipue_search.include.collections -%}
-  {%- assign documents = site.documents | where:"collection",collection -%}
-  {%- for document in documents -%}
-    {%- unless document.exclude_from_search == true or excluded_files contains document.path -%}
+  {%- assign files = site.files | where:"collection",collection -%}
+  {%- for file in files -%}
+    {%- unless file.exclude_from_search == true or excluded_files contains file.path -%}
       {%- assign has_excluded_taxonomy = false -%}
-      {%- for tag in document.tags -%}
+      {%- for tag in file.tags -%}
         {%- if excluded_taxonomies contains tag -%}
           {%- assign has_excluded_taxonomy = true -%}
         {%- endif -%}
       {%- endfor -%}
-      {%- for category in document.categories -%}
+      {%- for category in file.categories -%}
         {%- if excluded_taxonomies contains category -%}
           {%- assign has_excluded_taxonomy = true -%}
         {%- endif -%}
       {%- endfor -%}
       {%- unless has_excluded_taxonomy == true -%}
-        {%- assign index = index | push: document | uniq -%}
+        {%- assign index = index | push: file | uniq -%}
       {%- endunless -%}
     {%- endunless -%}
   {%- endfor -%}
 {%- endfor -%}
 var tipuesearch = {"pages": [
-{%- for document in index -%}
-  {%- assign tags = document.tags | uniq -%}
-  {%- assign categories = document.categories | uniq -%}
+{%- for page in index -%}
+  {%- assign tags = file.tags | uniq -%}
+  {%- assign categories = file.categories | uniq -%}
   {%- assign taxonomies = tags | concat: categories | uniq -%}
   {
-    "title": {{ document.title | smartify | strip_html | normalize_whitespace | jsonify }},
-    "text": {{ document.content | strip_html | normalize_whitespace | jsonify }},
+    "title": {{ file.title | smartify | strip_html | normalize_whitespace | jsonify }},
+    "text": {{ file.content | strip_html | normalize_whitespace | jsonify }},
     "tags": {{ taxonomies | join: " " | normalize_whitespace | jsonify }},
-    "url": {{ document.url | relative_url | jsonify }}
+    "url": {{ file.url | relative_url | jsonify }}
   }{%- unless forloop.last -%},{%- endunless -%}
 {%- endfor -%}
 ]};
